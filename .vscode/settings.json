@@ -1,0 +1,25 @@
+{
+    "cSpell.ignoreWords": [
+        "'Cardo'",
+        "Lexend",
+        "setbtn"
+    ],
+    "cSpell.words": [
+        "Amazen",
+        "araise",
+        "Contentcard",
+        "Flink",
+        "HDFS",
+        "Listpage",
+        "Serices",
+        "tailwindcss"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:Atomic-Deisgn-main}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}

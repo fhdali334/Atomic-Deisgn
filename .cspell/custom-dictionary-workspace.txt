@@ -1,0 +1,9 @@
+# Custom Dictionary Words
+aboutus
+Addres
+addresItemsDetails
+contactus
+hiter
+Letraset
+Listmenu
+Socail
